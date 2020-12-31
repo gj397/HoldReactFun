@@ -1,6 +1,6 @@
 import React from 'react';
 
-cont S1 = props => {
+cont S1 = (props) => {
   return <h1>S1 Component</h1>
 }
 
